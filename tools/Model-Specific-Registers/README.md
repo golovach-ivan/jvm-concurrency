@@ -4,5 +4,14 @@
 
 > The **msr-tools** package provides a reference implementation.
 
+## Java
+```java
+f = new RandomAccessFile(“/dev/cpu/0/msr”, “rw”);
+ch = f.getChannel();
+buffer.order(ByteOrder.nativeOrder());
+ch.read(buffer, msrNumber);
+long value = buffer.getLong(0);
+```
+
 ## msr-tools
 
