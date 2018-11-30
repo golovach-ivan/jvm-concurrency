@@ -13,5 +13,14 @@ ch.read(buffer, msrNumber);
 long value = buffer.getLong(0);
 ```
 
+## Intel VTune 
+http://software.intel.com/en-us/intel-vtune-amplifier-xeLinux 
+
+## "perf stat" 
+http://linux.die.net/man/1/perf-statlikwid - 
+
+## Lightweight Performance Counters
+http://code.google.com/p/likwid/
+
 ## msr-tools
 
