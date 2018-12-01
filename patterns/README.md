@@ -1,5 +1,7 @@
 - ? data race
 - ? contention
+- ? false sharing
+- ? cache miss
 
 Single Writer Principle
 
