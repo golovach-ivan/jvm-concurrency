@@ -1,0 +1,3 @@
+- Martin Thompson, 2013, **"Lock-Free Algorithms For Ultimate Performance"** [video](https://www.infoq.com/presentations/Lock-Free-Algorithms), [slides](https://www.slideshare.net/InfoQ/lockfree-algorithms-for-ultimate-performance)
+- Google Tech Talks, 2008, **"IA Memory Ordering"**, [video](https://www.youtube.com/watch?v=WUfvvFD5tAA)
+- Martin Thompson and Michael Barker, 2010, **"LMAX - How to Do 100K TPS at Less than 1ms Latency"**, [video](https://www.infoq.com/presentations/LMAX)
