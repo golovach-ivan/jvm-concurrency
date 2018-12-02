@@ -10,3 +10,6 @@ LoadLoad, LoadStore, StoreStore, StoreLoad, LoadExit, StoreExit, EnterEnter, Ent
 ### Links
 - [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html)
 - [The JMM Cookbook for Java Developers](https://giltene.github.io/DeveloperJMMCookbook/)
+- http://drops.dagstuhl.de/opus/volltexte/2015/5233/pdf/23.pdf
+- http://www.cs.umd.edu/~pugh/java/memoryModel/archive/1186.html
+- http://psy-lob-saw.blogspot.com/2013/08/memory-barriers-are-not-free.html
